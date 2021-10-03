@@ -6,8 +6,6 @@ const {
 
 const { SimpleFlyStrategy, NoFlyStrategy } = require("./IFlyStrategy");
 
-SimpleQuackStrategy;
-
 class Duck {
     constructor() {
         this.quack = new SimpleQuackStrategy();
